@@ -1,22 +1,12 @@
----
-title: "Final Project Report - Developing Data Products Course"
-author: "Tongesai Kapondo"
-date: "26 June 2016"
-output:
-  html_document:
-    keep_md: yes
----
+# Final Project Report - Developing Data Products Course
+Tongesai Kapondo  
+26 June 2016  
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
  
 
-```{r set-options, echo=FALSE, cache=FALSE}
-## # How to adjust the output width of RStudio Markdown output (to HTML)
-options(width = 200) # SOME-REALLY-BIG-VALUE
-```
+
 
 ## Agenda
 
